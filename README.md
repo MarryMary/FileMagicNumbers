@@ -1,0 +1,2 @@
+# FileMagicNumbers
+Magic number scribble
