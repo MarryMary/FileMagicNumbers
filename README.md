@@ -1,2 +1,2 @@
 # FileMagicNumbers
-Magic number scribble
+ファイルアップロード時のファイル種別チェックに使えそうなマジックナンバーを種類別にjsonファイルで保存
